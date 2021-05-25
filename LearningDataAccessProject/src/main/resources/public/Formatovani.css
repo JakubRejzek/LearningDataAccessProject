@@ -1,0 +1,31 @@
+/* CSS Document */
+#myLittleTable
+ {
+ align="center";
+  bgcolor="#33FFCC" ;
+  background-color: bgcolor="#33FFCC";
+ max-width: 80%;
+  font-family: arial, sans-serif;
+  border: 2px solid #222222;
+  border-collapse: collapse;
+ }
+ td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+thead tr
+ {
+     border: 4 px solid #000000;
+     
+ }
+ button
+ {
+ width: 62%;
+ height: 20%;
+ font-size: 300%;
+          
+ }
+ 
+ 
+ 
