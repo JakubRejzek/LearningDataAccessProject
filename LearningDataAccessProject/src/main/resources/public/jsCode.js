@@ -5,7 +5,7 @@ var webPageDataP = "";
 var webPageData = "";
 var isTheRTableShown = false;
    getTextFromWebpage(0,"https://webapi.developers.erstegroup.com/api/csas/public/sandbox/v2/rates/exchangerates?web-api-key=c52a0682-4806-4903-828f-6cc66508329e");
-   getTextFromWebpage(1,"/currentExchangeRates");   
+   getTextFromWebpage(1,"/currentExchangeRates?usedb=true");   
       function debug ()
       { 
       //loads raw internet data
