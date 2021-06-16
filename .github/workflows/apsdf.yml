@@ -10,3 +10,6 @@ jobs:
         run: |  
             cat README.md
             curl https://aim.test.toms-cz.com/aim/version
+            node LearningDataAccessProject/src/main/resources/private/nodeTrial.js
+
+            
